@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               : disqus # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : dashee87 # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : tushar # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : https://twitter.com/BunnyTushar
 facebook:
   username               :
   app_id                 :
@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Tushar Gupta"
   avatar           : "bio-photo.jpg"
-  bio              : "Machine Learning Interest"
-  location         : "London via Cork"
+  bio              : "Machine Learning Enthusiast"
+  location         : "India"
   email            : "tushar.behror@gmail.com"
   uri              :
   bitbucket        :
@@ -94,13 +94,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/tushar-gupta-60001487/
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : https://stackoverflow.com/users/4393970/tushar-gupta?tab=profile
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : https://twitter.com/BunnyTushar
   vine             :
   weibo            :
   xing             :
