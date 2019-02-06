@@ -13,7 +13,7 @@ name                     : "Tushar Gupta"
 description              : "My personal blog to explore the world of Machine Learning and Deep Learning."
 url                      : "https://tushargupta01.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "tushargupta01/tushargupta01.github.io/" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "tushargupta01/tushargupta01" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/BunnyTushar
+  username               : BunnyTushar
 facebook:
   username               :
   app_id                 :
