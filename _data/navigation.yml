@@ -6,3 +6,7 @@ main:
   - 
     title: "About"
     url: /about/
+
+  - 
+    title: "Deep Learning Glossary"
+    url: /deep_learning_glossary/
